@@ -1,7 +1,6 @@
-# Side By Side
+# Side By Side Lucretius
 
-Easy visual comparison of different translations or versions of itemized texts;
-e.g. poems, bibles, etc.
+Easy visual comparison of different translations of the text.
 
 This repository is the build artifact of https://github.com/tasuki/side-by-side  
 See sample application at https://tasuki.github.io/sbs/#/base:tests.the_raven
