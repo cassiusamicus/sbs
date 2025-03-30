@@ -2,6 +2,8 @@
 	"title": "Lucretius Book One",
 	"files": [
 		"book1/latin1.md",
-		"book1/dunster1.md"
+		"book1/dunster1.md",
+		"book1/munro1.md",
+		"book1/bailey1.md"
 	]
 }
